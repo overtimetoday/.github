@@ -1,1 +1,1 @@
-![](https://github.dev/overtimetoday/.github/blob/main/profile/logo-white.png)
+![](https://github.com/overtimetoday/.github/blob/main/profile/logo-white.png)
